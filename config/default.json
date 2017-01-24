@@ -1,5 +1,5 @@
 {
-    "appSecret": "secret",
+    "appSecret": "a64fac33c99df4879c0c1ee6a578d0f4",
     "pageAccessToken": "EAACJhpjKtpABAMkTk9ZBNp4br049MdCW6sN2TVZAstSrYWCjechFynJ4ZBFe987GaJih7i7fNGRfPaC7iDQbXhIEgPEYDX38MMAc53ZCYTgKMyx7DhFMb7z5XwO45LIc1VnP9JKT2erZC5yMbtGwRzFz71Qe41MFRY9qvPW1TftdZCILmimoYc",
     "validationToken": "validation",
     "serverURL": "https://stark-fjord-30421.herokuapp.com/"
